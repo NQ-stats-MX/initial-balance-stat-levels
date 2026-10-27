@@ -5,8 +5,7 @@ A Pine Script v6 indicator that plots the **Initial Balance (IB)** for any intra
 
 Built for index futures intraday trading (NQ/MNQ, ES/MES), but it works on any symbol with intraday data.
 
-![IB Extension Stats on NQ](<img width="1835" height="1004" alt="image" src="https://github.com/user-attachments/assets/5588bf01-c515-4e4d-99ae-1b4b18e444dd" />
-)
+<img width="1835" height="1004" alt="image" src="https://github.com/user-attachments/assets/6b523720-761f-4cba-8511-f0480e461c23" />
 
 ---
 
